@@ -123,7 +123,7 @@ public class CrystalBowItem extends LivingwoodBowItem {
 
 	@Override
 	public float chargeVelocityMultiplier() {
-		return 2F;
+		return 1F;
 	}
 
 	private boolean canFire(ItemStack stack, Player player) {
